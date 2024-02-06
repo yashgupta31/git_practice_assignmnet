@@ -7,7 +7,7 @@ let count=0;
         }
     }
     
-    if(count==5){
+    if(count==2){   // updated code by pushkar
         console.log("Yes")
     }
     else{
